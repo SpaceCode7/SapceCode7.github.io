@@ -1,4 +1,7 @@
-# Notes:
+# Main:
+
+# Intro
+  > Hello everyone. My name is Sam and I am new to software development. I currently live in Seattle and have been for the last 20 years. When im not playing video games or practicing code i like to get outside and enjoy being in the beautiful nature that sorrounds me in Washington. 
 
 >## Growth Mindset
 >
@@ -10,6 +13,11 @@
 >>    - Setting small goals inside a big goal will help keep the process going. 
 >> 2. Don't avoid obsticales 
 >>    - Viewing obstacles as opportunities instead of struggles provides a healthy mindset for growth
->> 3. Embrace failure
+>> 3. Embrace fa ilure
 >>    - Learning to be ok with failure and not avoiding failure helps you learn from the failure and provides an oppurtunity for growth. 
+
+## Things I want to know more about
+
+ *
+
 
